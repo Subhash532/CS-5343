@@ -1,1 +1,3 @@
-# CS-5343 - Prof Neeraj Gupta -The University of Texas at Dallas
+# CS-5343 - Data Structures and Algorithms
+
+# Prof : NeeraJ Gupta
